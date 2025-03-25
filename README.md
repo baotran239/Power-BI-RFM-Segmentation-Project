@@ -60,9 +60,9 @@ The project focuses on applying the RFM segmentation scoring method to categoriz
 ![Image](https://github.com/user-attachments/assets/015c73f0-ac49-43d5-bd86-dd499cdb96b2)
 
 ### Dashboard
-<!-- Uploading "Screen Shot 2025-03-25 at 15.35.54.png"... -->
+<img width="1195" alt="Image" src="https://github.com/user-attachments/assets/d7ede4fe-fc90-4308-ad22-50a370abaac4" />
 
-<img width="1195" alt="Image" src="https://github.com/user-attachments/assets/e2f6e2f7-53bb-47ff-8c0b-9d8a41f6947f" />
+<img width="1195" alt="Image" src="https://github.com/user-attachments/assets/00617388-0e2c-4dc2-9805-09ddacde0266" />
 
 # V. Insights
 ### Customer Segmentation
@@ -72,7 +72,10 @@ The project focuses on applying the RFM segmentation scoring method to categoriz
 
 ### Sales Performance:
 - Peak revenue occurred around 2013, followed by a decline, indicating market changes or external factors affecting performance.
-- "Bikes" dominate as the top revenue-generating category, suggesting a flagship product line.
+- "Road Bikes" dominate as the top revenue-generating subcategory.
 - North America significantly outperforms other regions in revenue contribution, indicating strong market presence.
-- "Other" reasons dominate over promotions or marketing, indicating habitual or necessity-based purchases.
+- "Price" reasons dominate over promotions or marketing, indicating habitual or necessity-based purchases.'
+
+# VI. Recommendations
+
 
