@@ -55,4 +55,6 @@ The project focuses on applying the RFM segmentation scoring method to categoriz
 | **View 1: Customer Segmentation** |**Customer segmentation distribution** <br>  - by time period  <br>  - by location  <br>  - by product  <br>  - by buying reason |
 | **View 2: Sales Performance**     |**Revenue/ Order**  <br>  - by segment <br> - by time period  <br>  - by location  <br>  - by product  <br>  - by buying reason |
 
+# IV. Dashboard
+
 
