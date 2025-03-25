@@ -56,5 +56,21 @@ The project focuses on applying the RFM segmentation scoring method to categoriz
 | **View 2: Sales Performance**     |**Revenue/ Order**  <br>  - by segment <br> - by time period  <br>  - by location  <br>  - by product  <br>  - by buying reason |
 
 # IV. Dashboard
+### Data modeling
+![Image](https://github.com/user-attachments/assets/dd505eab-eb53-483b-b734-17abdd317fba)
 
+### Dashboard
+<img width="1195" alt="Image" src="https://github.com/user-attachments/assets/e9141eae-1566-47bf-af9d-4c6fbed981dd" />
+
+# V. Insights
+### Customer Segmentation
+- The "Champions" segment generates 70.06% of total revenue with a small customer base, indicating a high-spending loyal group.
+- "Can't Lose Them" and "At Risk" segments show a considerable number of customers but lower revenue contribution, suggesting potential churn risks.
+- "Hibernating" and "Lost" segments show very low engagement, indicating a need for reactivation strategies.
+
+### Sales Performance:
+- Peak revenue occurred around 2013, followed by a decline, indicating market changes or external factors affecting performance.
+- "Bikes" dominate as the top revenue-generating category, suggesting a flagship product line.
+- North America significantly outperforms other regions in revenue contribution, indicating strong market presence.
+- "Other" reasons dominate over promotions or marketing, indicating habitual or necessity-based purchases.
 
