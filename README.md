@@ -29,8 +29,8 @@ The project focuses on applying the RFM segmentation scoring method to categoriz
 ### Dataset exploration
 | **Table Type** | **Details**                                                                                                   |
 |----------------|---------------------------------------------------------------------------------------------------------------|
-| **Fact table**  | Sale Order Detail, SalesOrderHeader                                                                           |
-| **Dim table**   | Customer, Location, Dim_Date, Product, Segment, SalesReason, SalesOrderHeaderSalesReason              |
+| **Fact table**  | SaleOrderDetail, SalesOrderHeader, SalesOrderHeaderReason                                                                          |
+| **Dim table**   | Customer, Location, Product, SalesReason, RFMTable, RFMAverageValue             |
 
 ## Step 2. Ideate
 ### Northstar metrics
