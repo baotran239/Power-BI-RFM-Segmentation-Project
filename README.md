@@ -60,9 +60,9 @@ The project focuses on applying the RFM segmentation scoring method to categoriz
 ![Image](https://github.com/user-attachments/assets/015c73f0-ac49-43d5-bd86-dd499cdb96b2)
 
 ### Dashboard
-<img width="1195" alt="Image" src="https://github.com/user-attachments/assets/d7ede4fe-fc90-4308-ad22-50a370abaac4" />
-
 <img width="1195" alt="Image" src="https://github.com/user-attachments/assets/00617388-0e2c-4dc2-9805-09ddacde0266" />
+
+<img width="1195" alt="Image" src="https://github.com/user-attachments/assets/d7ede4fe-fc90-4308-ad22-50a370abaac4" />
 
 # V. Insights
 ### Customer Segmentation
