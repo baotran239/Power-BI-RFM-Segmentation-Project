@@ -57,10 +57,12 @@ The project focuses on applying the RFM segmentation scoring method to categoriz
 
 # IV. Dashboard
 ### Data modeling
-![Image](https://github.com/user-attachments/assets/dd505eab-eb53-483b-b734-17abdd317fba)
+![Image](https://github.com/user-attachments/assets/015c73f0-ac49-43d5-bd86-dd499cdb96b2)
 
 ### Dashboard
-<img width="1195" alt="Image" src="https://github.com/user-attachments/assets/e9141eae-1566-47bf-af9d-4c6fbed981dd" />
+<!-- Uploading "Screen Shot 2025-03-25 at 15.35.54.png"... -->
+
+<img width="1195" alt="Image" src="https://github.com/user-attachments/assets/e2f6e2f7-53bb-47ff-8c0b-9d8a41f6947f" />
 
 # V. Insights
 ### Customer Segmentation
