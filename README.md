@@ -74,7 +74,7 @@ The project focuses on applying the RFM segmentation scoring method to categoriz
 - Peak revenue occurred around 2013, followed by a decline, indicating market changes or external factors affecting performance.
 - "Road Bikes" dominate as the top revenue-generating subcategory.
 - North America significantly outperforms other regions in revenue contribution, indicating strong market presence.
-- "Price" reasons dominate over promotions or marketing, indicating habitual or necessity-based purchases.'
+- "Price" reasons dominate over promotions or marketing, indicating habitual or necessity-based purchases.
 
 # VI. Recommendations
 
