@@ -67,7 +67,8 @@ The project focuses on applying the RFM segmentation scoring method to categoriz
 # V. Insights
 ### Customer Segmentation
 - The "Champions" segment generates 70.06% of total revenue with a small customer base, indicating a high-spending loyal group.
-- "Can't Lose Them" and "At Risk" segments show a considerable number of customers but lower revenue contribution, suggesting potential churn risks.
+- "Can't Lose Them" was the second most revenue contributed group with relatively low customer base, showing their high-value basket.
+- "Potential Loyalists" and "At Risk" segments show a considerable number of customers but lower revenue contribution, suggesting potential churn risks.
 - "Hibernating" and "Lost" segments show very low engagement, indicating a need for reactivation strategies.
 
 ### Sales Performance:
@@ -77,5 +78,13 @@ The project focuses on applying the RFM segmentation scoring method to categoriz
 - "Price" reasons dominate over promotions or marketing, indicating habitual or necessity-based purchases.
 
 # VI. Recommendations
-
-
+| **Segment**                | **Characteristics**                                                                 | **Insights**                                       | **Recommendations** |
+|----------------------------|-------------------------------------------------------------------------------------|---------------------------------------------------|---------------------|
+| **Champions**              | - Recent, frequent purchases with high spending. <br> - Highly engaged and loyal.    | - Major revenue contributors (70%). <br> - Relatively small customer base (15%). | - Offer **VIP loyalty programs** with exclusive perks. <br> - Provide **early access to new products**. <br> - Encourage **referrals** with incentives. |
+| **Loyal Customers**        | - Frequent buyers with moderate-to-high spending. <br> - Consistently engaged.      | - Important for retention and advocacy.           | - Introduce a **tiered rewards program**. <br> - Encourage **product reviews & social sharing**. <br> - Provide **personalized content & recommendations**. |
+| **Potential Loyalists**    | - Recently purchased but with low frequency. <br> - Could develop into loyal customers. | - Largest amount of customers (28%). <br> - Relatively low revenue contributed (0.3%). | - Send **post-purchase follow-up emails**. <br> - Offer **discounts on the next purchase**. <br> - Use **remarketing ads** to maintain engagement. |
+| **Customer Needing Attention** | - Purchased a few times but not recently. <br> - Moderate spending, inconsistent purchase behavior. <br> - Could become loyal customers if engaged properly. <br> - At risk of dropping off due to lack of connection. | - Customers with potential to increase spending but require re-engagement. | - Send **personalized product recommendations** based on past purchases. <br> - Offer **limited-time discounts** to encourage repeat purchases. <br> - Engage with **educational content** (e.g., blogs, emails, videos). <br> - Run **win-back email campaigns** with compelling offers. <br> - Use **social media retargeting** to stay top of mind. |
+| **Can’t Lose Them**        | - Previously high-value customers who haven’t returned. <br> - Significant revenue loss if they leave. | - Second revenue contributors (16%). <br> - Low customer base (8%). | - Send **personalized re-engagement emails**. <br> - Offer **exclusive limited-time discounts**. <br> - Conduct **customer service follow-ups**. |
+| **At Risk**                | - Long inactivity but had meaningful past transactions. <br> - May have shifted to competitors. | - Second largest customer base (24%). <br> - Relatively low revenue contributed (7%). | - Launch a **“We Miss You” campaign** with special deals. <br> - Recommend **products based on past interests**. <br> - Use **targeted remarketing ads**. |
+| **Hibernating**            | - No activity for a long time. <br> - Previous transactions but no engagement now. | - Low engagement and spending. | - Run a **“Comeback Sale” campaign**. <br> - Introduce **new product lines** that fit past preferences. <br> - Gather feedback on why they stopped buying. |
+| **Lost**                   | - No purchases in a very long time. <br> - Likely switched to competitors or lost interest. | - Little chance of reactivation unless strong incentives are given. | - Send a **“We’ve Changed” campaign** highlighting improvements. <br> - Offer **one-time exclusive incentives**. <br> - If unresponsive, **remove from marketing lists**. |
